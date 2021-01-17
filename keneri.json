@@ -1,12 +1,12 @@
 {
   "app": {
-    "version": "2f5331ab",
+    "version": "f5593e05",
     "versionCode": "4770",
     "link": "https://github.com/topjohnwu/magisk_files/raw/canary/app-debug.apk",
     "note": "notes.md"
   },
   "magisk": {
-    "version": "2f5331ab",
+    "version": "f5593e05",
     "versionCode": "21201",
     "link": "https://github.com/topjohnwu/magisk_files/raw/canary/magisk-debug.zip",
     "note": "notes.md",
